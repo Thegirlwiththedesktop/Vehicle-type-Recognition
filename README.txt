@@ -67,7 +67,7 @@ Getting started:
 
 Have a basic knowledge about CNNs
  
-NB. The saved models are inside the datasets folder
+NB. The saved models are inside the datasets folder  #demo notebook and saved models too big to upload on github, even after compression (*to upload demo video instead)
 
 
 notable source/dataset source: https://www.kaggle.com/helibu/cnn-and-resnet-car-and-truck-classification/
