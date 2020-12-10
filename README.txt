@@ -70,4 +70,4 @@ Have a basic knowledge about CNNs
 NB. The saved models are inside the datasets folder
 
 
-notable source: https://www.kaggle.com/helibu/cnn-and-resnet-car-and-truck-classification/
+notable source/dataset source: https://www.kaggle.com/helibu/cnn-and-resnet-car-and-truck-classification/
